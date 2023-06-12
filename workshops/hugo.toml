@@ -1,0 +1,5 @@
+baseURL = 'https://busterwarn.github.io/'
+languageCode = 'en-us'
+title = 'Workshops'
+
+theme="terminal"

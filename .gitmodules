@@ -1,0 +1,4 @@
+[submodule "workshops/public"]
+	path = workshops/public
+	url = https://github.com/BusterWarn/workshops.github.io.git
+	branch = main
